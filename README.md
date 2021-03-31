@@ -1,3 +1,3 @@
-# Strapi application
+# Personal site CMS!
 
-A quick description of your strapi application
+Built in strapi, and in progress
