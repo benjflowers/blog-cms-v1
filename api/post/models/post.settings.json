@@ -12,15 +12,19 @@
   },
   "attributes": {
     "title": {
-      "type": "string"
+      "type": "string",
+      "required": true
     },
     "content": {
-      "type": "richtext"
+      "type": "richtext",
+      "required": true
     },
     "author": {
-      "type": "string"
+      "type": "string",
+      "default": "benj",
+      "required": true
     },
-    "category": {
+    "categories": {
       "type": "string"
     }
   }
